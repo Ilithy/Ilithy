@@ -17,8 +17,8 @@
 I am a simple user, I help the developers who want it by:
 
 - translating in my language (French)
-- creating presentation illustrations (banners, screenshots for app store etc...)
-- moral support <3
+- creating simple presentation illustrations _(banners, screenshots for app store etc...)_
+- moral support ❤️
 
 
 <!--
