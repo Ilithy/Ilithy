@@ -1,8 +1,13 @@
+<p align="center">
+
+<img alt="Welcome" src="https://github.com/Ilithy/Ilithy/blob/01183bfdfebfd24b316c12df09adffb2bed7f232/Art/Welcome.gif"/>
+
+</p>
+
 
 <h1>Hello to you</h1>
 
 
-<img alt="Welcome" src="https://github.com/Ilithy/Ilithy/blob/5789a61dbdbb8e0e87ab9980d9eca9aa243c099e/Art/ezgif-5-ea8ae0b501.mp4" align="center"/>
 
 <div size='20px'> Hi! My name is Nathanaël. Thank You for taking the time to view my GitHub Profile
 </div>
