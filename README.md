@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <br/>
 <p align="left">
-  <a href="https://abhigyantrips.dev/">
+  <a href="https://github.com/Ilithy">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Ilithy&show_icons=true&theme=radical" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ilithy&theme=radical" />
   </a>
