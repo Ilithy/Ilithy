@@ -1,16 +1,6 @@
-### Hi there 👋
+### Hello to you
 
 
-
-<br>
-
-<p align="center"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=Ilithy&label=Profile%20views&color=0e75b6&style=flat"
-
-    alt="Ilithy" />
-
-  </p>
-
-<br>
 <!--
 **Ilithy/Ilithy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,6 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## My Statistics
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Ilithy&label=Profile%20views&color=0e75b6&style=flat"
+  </p>
 
 <br/>
 <p align="left">
