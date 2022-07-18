@@ -1,5 +1,5 @@
 
-## Hello to you  
+<h1>Hello to you</h1>
   
 
 <div size='20px'> Hi! My name is Nathanaël. Thank You for taking the time to view my GitHub Profile
@@ -27,7 +27,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## My Statistics
+
+<h2>My Statistics</h2>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Ilithy&label=Profile%20views&color=0e75b6&style=flat"
   </p>
@@ -37,11 +38,13 @@ Here are some ideas to get you started:
   <a href="https://github.com/Ilithy">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Ilithy&show_icons=true&theme=radical&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ilithy&show_icons=true&theme=radical&hide_border=true" />
-  </a>
-</p>
-<br>
+
 
 [![Ilithy Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ilithy&custom_title=Ilithy%20Contribution%20Graph&theme=radical)](https://Ilithy.dev)
+</a>
 
+</p>
+
+<br>
 
 
