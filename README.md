@@ -44,8 +44,8 @@ Here are some ideas to get you started:
 [![Ilithy Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ilithy&custom_title=Ilithy%20Contribution%20Graph&theme=radical)](https://Ilithy.dev)
 </a>
 
-  </p>
+</p>
 
-    <br>
+<br>
 
 
