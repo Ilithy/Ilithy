@@ -6,6 +6,11 @@
 
 <h2>About Me</h2>
 
+I am a simple user, I help the developers who want it by:
+
+- translating in my language (French)
+- creating presentation illustrations (banners, screenshots for app store etc...)
+- moral support <3
 
 <!--
 **Ilithy/Ilithy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
