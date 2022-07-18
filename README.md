@@ -14,8 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## My Statistics
 
+<br/>
+<p align="left">
+  <a href="https://abhigyantrips.dev/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Ilithy&show_icons=true&theme=radical" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ilithy&theme=radical" />
+  </a>
+</p>
+<br>
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=Ilithy&show_icons=true&theme=github_dark)](https://github.com/Ilithy)
+[![Ilithy Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ilithy&custom_title=Ilithy%20Trips's%20Contribution%20Graph&theme=radical)](https://Ilithy.dev)
+
 
 
