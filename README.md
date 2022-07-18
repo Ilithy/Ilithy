@@ -1,4 +1,10 @@
-### Hello to you
+## Hello to you  
+  
+
+<div size='20px'> Hi! My name is Nathanaël. Thank You for taking the time to view my GitHub Profile
+</div>
+
+<h2>About Me</h2>
 
 
 <!--
