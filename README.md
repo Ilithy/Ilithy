@@ -11,7 +11,7 @@
 
 
 
-<div size='20px'> Hi! My name is Nathanaël. Thank You for taking the time to view my GitHub Profile</div>  
+<div size='20px'><b>Hi! My name is Nathanaël. Thank You for taking the time to view my GitHub Profile</b></div>  
 <br/><br/>
     
 <p align="left">
@@ -24,7 +24,6 @@ I am a simple user, I help the developers who want it by:
 - creating simple presentation illustrations _(banners, screenshots for app store etc...)_
 - moral support ❤️
 
-<br/><br/>
 <!--
 **Ilithy/Ilithy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -40,15 +39,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2>Github Statistics</h2> <!-- <details> -->
+<details>
+<summary><h3>Useful links</h3></summary>
+
+**- Useful android foss application**
+  1. [Olauncher CF](https://github.com/jooooscha/Olauncher)
+  2. [Silence](https://github.com/x13a/Silence)  
+  3. _More soon_ <!-- to filled in later -->
+</details>
+
+<h2>Github Statistics</h2>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Ilithy&label=Profile%20views&color=0e75b6&style=flat"
-  </p>
+ </p>
 
 <br/>
 <p align="center">
   <a href="https://github.com/Ilithy">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Ilithy&show_icons=true&theme=radical&hide_border=true" />
+   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Ilithy&show_icons=true&theme=radical&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ilithy&show_icons=true&theme=radical&hide_border=true" />
 
 
@@ -57,9 +65,6 @@ Here are some ideas to get you started:
 
 [![Ilithy Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ilithy&custom_title=Ilithy%20Contribution%20Graph&theme=radical)](https://Ilithy.dev)
 </a>
-</p>
-<br>
-  
-<!-- </details> -->
-
-
+ </p>
+  <br>
+<!-- No new line at the end of file -->
