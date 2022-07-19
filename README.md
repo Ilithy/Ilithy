@@ -1,25 +1,29 @@
 <p align="center">
 
-<img alt="Welcome" src="https://github.com/Ilithy/Ilithy/blob/01183bfdfebfd24b316c12df09adffb2bed7f232/Art/Welcome.gif"/>
+<img alt="Welcome" src="https://github.com/Ilithy/Ilithy/blob/57b1a028ee1ae52285a2ac1efbbae18ae40a6c9a/Art/Welcome-on-my-Github-profile.gif"/>
 
 </p>
 
 
-<h1>Hello to you</h1>
+<p align="left">
+<img alt="Welcome" src="https://github.com/Ilithy/Ilithy/blob/603e97bb93ef393590b0c58ab32194efe33a8452/Art/Hello-to-you-19-07-2022.gif"width="250"/>
+</p>
 
 
 
-<div size='20px'> Hi! My name is Nathanaël. Thank You for taking the time to view my GitHub Profile
-</div>
+<div size='20px'> Hi! My name is Nathanaël. Thank You for taking the time to view my GitHub Profile</div>  
+  
 
-<h2>About Me</h2>
-
+    
+<p align="left">
+<img alt="Welcome" src="https://github.com/Ilithy/Ilithy/blob/57b1a028ee1ae52285a2ac1efbbae18ae40a6c9a/Art/About-me-19-07-2022.gif"width="250"/>
+</p>
+  
 I am a simple user, I help the developers who want it by:
 
 - translating in my language _(French)_
 - creating simple presentation illustrations _(banners, screenshots for app store etc...)_
 - moral support ❤️
-
 
 <!--
 **Ilithy/Ilithy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
