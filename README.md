@@ -42,17 +42,18 @@ Here are some ideas to get you started:
   </p>
 
 <br/>
-<p align="left">
+<p align="center">
   <a href="https://github.com/Ilithy">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Ilithy&show_icons=true&theme=radical&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ilithy&show_icons=true&theme=radical&hide_border=true" />
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ilithy)](https://github.com/Ilithy/github-profile-trophy)
+
+
 [![Ilithy Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ilithy&custom_title=Ilithy%20Contribution%20Graph&theme=radical)](https://Ilithy.dev)
 </a>
-
 </p>
-
 <br>
 
 
