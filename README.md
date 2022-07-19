@@ -12,8 +12,7 @@
 
 
 <div size='20px'> Hi! My name is Nathanaël. Thank You for taking the time to view my GitHub Profile</div>  
-  
-
+<br/><br/>
     
 <p align="left">
 <img alt="Welcome" src="https://github.com/Ilithy/Ilithy/blob/57b1a028ee1ae52285a2ac1efbbae18ae40a6c9a/Art/About-me-19-07-2022.gif"width="250"/>
@@ -25,6 +24,7 @@ I am a simple user, I help the developers who want it by:
 - creating simple presentation illustrations _(banners, screenshots for app store etc...)_
 - moral support ❤️
 
+<br/><br/>
 <!--
 **Ilithy/Ilithy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
