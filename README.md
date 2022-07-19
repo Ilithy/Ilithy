@@ -40,7 +40,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2>Github Statistics</h2> <!-- <details> -->
+<h2>Github Statistics</h2>
+
+<details>
+<summary>
+
+<h2>Github Statistics</h2></summary>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Ilithy&label=Profile%20views&color=0e75b6&style=flat"
   </p>
@@ -59,7 +64,7 @@ Here are some ideas to get you started:
 </a>
 </p>
 <br>
-  
-<!-- </details> -->
+</details>
+
 
 
