@@ -6,19 +6,19 @@
 
 
 <p align="left">
-<img alt="Welcome" src="https://github.com/Ilithy/Ilithy/blob/603e97bb93ef393590b0c58ab32194efe33a8452/Art/Hello-to-you-19-07-2022.gif"width="250"/>
+<img alt="Hello" src="https://github.com/Ilithy/Ilithy/blob/603e97bb93ef393590b0c58ab32194efe33a8452/Art/Hello-to-you-19-07-2022.gif"width="250"/>
 </p>
 
 
 
-<div size='20px'><b>Hi! My name is Nathanaël. Thank You for taking the time to view my GitHub Profile</b></div>  
+<div size='20px'><b>Hi! Thank You for taking the time to view my GitHub Profile</b></div>  
 <br/><br/>
     
 <p align="left">
-<img alt="Welcome" src="https://github.com/Ilithy/Ilithy/blob/57b1a028ee1ae52285a2ac1efbbae18ae40a6c9a/Art/About-me-19-07-2022.gif"width="250"/>
+<img alt="About" src="https://github.com/Ilithy/Ilithy/blob/57b1a028ee1ae52285a2ac1efbbae18ae40a6c9a/Art/About-me-19-07-2022.gif"width="200"/>
 </p>
   
-I am a simple user, I help the developers who want it by:
+My name is Nathanaël, I am a simple user, I help the developers who want it by:
 
 - translating in my language _(French)_
 - creating simple presentation illustrations _(banners, screenshots for app store etc...)_
@@ -48,7 +48,10 @@ Here are some ideas to get you started:
   3. _More soon_ <!-- to filled in later -->
 </details>
 
-<h2>Github Statistics</h2>
+<p align="center">
+<img alt="Statistics" src="https://github.com/Ilithy/Ilithy/blob/bf1be3110677475ceeeb6362a573089a174f2b72/Art/Github-Statistics-20-07-2022.gif"width="300"/>
+</p>
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Ilithy&label=Profile%20views&color=0e75b6&style=flat"
  </p>
