@@ -44,8 +44,12 @@ Here are some ideas to get you started:
 
 **- Useful android foss application**
   1. [Olauncher CF](https://github.com/jooooscha/Olauncher)
-  2. [Silence](https://github.com/x13a/Silence)  
-  3. _More soon_ <!-- to filled in later -->
+  2. [Silence](https://github.com/x13a/Silence)
+  3. [KeepassDX](https://github.com/Kunzisoft/KeePassDX)
+  4. [Url checker](https://github.com/TrianguloY/UrlChecker)
+  5. [_Unofficial_ Deepl for Android](https://github.com/sakusaku3939/DeepLAndroid)
+  6. _More soon_ <!-- to filled in later -->
+
 </details>
 
 <p align="center">
