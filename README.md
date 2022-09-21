@@ -13,7 +13,10 @@
 
 <div size='20px'><b>Hi! Thank You for taking the time to view my GitHub Profile</b></div>  
 <br/><br/>
-    
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Serif&pause=1000&width=435&lines=If+you+want+to+contact+me%2C+for+any+reason;Feel+free+to+open+a+discussion+on+my+profile)](https://git.io/typing-svg)
+<!-- Created with: https://github.com/DenverCoder1/readme-typing-svg and https://readme-typing-svg.demolab.com/demo/ //❤️ Thanks! ❤️//  -->
+
 <p align="left">
 <img alt="About" src="https://github.com/Ilithy/Ilithy/blob/57b1a028ee1ae52285a2ac1efbbae18ae40a6c9a/Art/About-me-19-07-2022.gif"width="200"/>
 </p>
