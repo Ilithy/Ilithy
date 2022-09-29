@@ -1,0 +1,179 @@
+name: Generate Metrics
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  push:
+    branches:
+      - master
+  workflow_dispatch:
+jobs:
+  Generating_Metrics:
+    runs-on: ubuntu-latest
+    steps:
+      # cartoon screenshot
+      - name: cartoon
+        uses: lowlighter/metrics@latest
+        with:
+          filename: Images/Dynamic/cartoon.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_screenshot: yes
+          plugin_screenshot_title: Cartoon of the day
+          plugin_screenshot_url: https://comic.browserling.com/random
+          plugin_screenshot_selector: "#cartoon img" 
+          plugin_screenshot_background: no
+          config_padding: 0, 8 + 1%
+      # joke screenshot
+      - name: joke
+        uses: lowlighter/metrics@latest
+        with:
+          filename: Images/Dynamic/joke.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_screenshot: yes
+          plugin_screenshot_title: Joke of the day
+          plugin_screenshot_url: https://readme-jokes.vercel.app/api?bgColor=%23fff&hideBorder&textColor=%23000&qColor=%23000&aColor=%2325b
+          plugin_screenshot_selector: ".container" 
+          plugin_screenshot_background: no
+          config_padding: 0, 8 + 5%
+      # meme screenshot
+      - name: meme
+        uses: lowlighter/metrics@latest
+        with:
+          filename: Images/Dynamic/meme.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_screenshot: yes
+          plugin_screenshot_title: Meme of the day
+          plugin_screenshot_url: https://programmerhumor.io/?bimber_random_post=true
+          plugin_screenshot_selector: ".g1-frame-inner" 
+          plugin_screenshot_background: no
+          config_padding: 0, 8 + 1%
+      # stats
+      - name: stats
+        uses: lowlighter/metrics@latest
+        with:
+          filename: Images/Dynamic/stats.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: header, activity, community, repositories
+          plugin_lines: yes
+      # notable contributions
+      - name: notable contributions
+        uses: lowlighter/metrics@latest
+        with:
+          filename: Images/Dynamic/contribs.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_notable: yes
+      # isocalendar
+      - name: isocalendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: Images/Dynamic/isocalendar.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+      # languages
+      - name: languages
+        uses: lowlighter/metrics@latest
+        with:
+          filename: Images/Dynamic/languages.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_languages: yes
+          plugin_languages_ignored: python
+          plugin_languages_colors: "jupyter notebook:#58a6ff, html:#ff3a3a, css:#7d6cff, scss:#ff48bd, ..."
+          plugin_languages_aliases: "jupyter notebook:Python, ..."
+          plugin_languages_sections: most-used #, recently-used
+          plugin_languages_details: percentage
+          plugin_languages_categories: data, markup, programming, prose
+      # topics
+      - name: topics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: Images/Dynamic/topics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_topics: yes
+          plugin_topics_sort: stars
+          plugin_topics_limit: 0
+      # mastered
+#       - name: mastered
+#         uses: lowlighter/metrics@latest
+#         with:
+#           filename: Images/Dynamic/mastered.svg
+#           token: ${{ secrets.METRICS_TOKEN }}
+#           committer_token: ${{ secrets.GITHUB_TOKEN }}
+#           base: ""
+#           plugin_topics: yes
+#           plugin_topics_sort: stars
+#           plugin_topics_mode: mastered
+#           plugin_topics_limit: 0 
+      # coding habits
+      - name: coding habits
+        uses: lowlighter/metrics@latest
+        with:
+          filename: Images/Dynamic/habits.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_habits: yes
+          plugin_habits_from: 200 
+          plugin_habits_days: 100
+          plugin_habits_facts: yes 
+          plugin_habits_charts: yes
+          plugin_habits_trim: no
+      # issues & PRs
+      - name: issues & PRs
+        uses: lowlighter/metrics@latest
+        with:
+          filename: Images/Dynamic/issuesPRs.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_followup: yes
+          plugin_followup_sections: repositories, user
+      # achievements
+      - name: achievements
+        uses: lowlighter/metrics@latest
+        with:
+          filename: Images/Dynamic/achievements.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_threshold: C       
+          plugin_achievements_secrets: yes   
+          plugin_achievements_limit: 0
+          plugin_achievements_display: compact
+      # website
+      - name: website
+        uses: lowlighter/metrics@latest
+        with:
+          filename: Images/Dynamic/website.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_pagespeed: yes
+          plugin_pagespeed_url: .user.website
+      # reactions
+      - name: reactions
+        uses: lowlighter/metrics@latest
+        with:
+          filename: Images/Dynamic/reactions.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_reactions: yes
+          plugin_reactions_limit: 200 
+          plugin_reactions_limit_issues: 100  
+          plugin_reactions_days: 100
+          plugin_reactions_details: count, percentage
