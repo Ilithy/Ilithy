@@ -50,8 +50,9 @@ Here are some ideas to get you started:
   2. [Silence](https://github.com/x13a/Silence)
   3. [KeepassDX](https://github.com/Kunzisoft/KeePassDX)
   4. [UrlCheck](https://github.com/TrianguloY/UrlChecker)
-  5. [_Unofficial_ Deepl for Android](https://github.com/sakusaku3939/DeepLAndroid)
-  6. _More soon_ <!-- to filled in later -->
+  5. [Translate You](https://github.com/Bnyro/TranslateYou)
+  6. [_Unofficial_ Deepl for Android](https://github.com/sakusaku3939/DeepLAndroid)
+  7. _More soon_ <!-- to filled in later -->
 
 </details>
 
